@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DSS Reports</title>
+<style>
+:root {
+  --bg: #0d1117; --surface: #161b22; --border: #30363d;
+  --text: #e6edf3; --text2: #8b949e; --accent: #58a6ff;
+  --green: #3fb950; --purple: #bc8cff; --teal: #03dac6;
+}
+[data-theme="light"] {
+  --bg: #f0f2f5; --surface: #ffffff; --border: #d0d7de;
+  --text: #1f2328; --text2: #656d76; --accent: #0969da;
+  --green: #1a7f37; --purple: #8250df; --teal: #00897b;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+       background: var(--bg); color: var(--text); min-height:100vh; }
+.header { background: linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);
+           padding:48px 32px 36px; text-align:center; }
+[data-theme="light"] .header { background: linear-gradient(135deg,#667eea 0%,#764ba2 100%); }
+.header h1 { font-size:2rem; font-weight:700; color:#fff; margin-bottom:8px; }
+.header p { color:#8b949e; font-size:.95rem; }
+[data-theme="light"] .header p { color:#ddd; }
+.theme-toggle { position:absolute; top:20px; right:24px; padding:6px 14px; border-radius:6px;
+  border:1px solid rgba(255,255,255,0.2); background:transparent; color:#fff; cursor:pointer; font-size:.8rem; }
+.theme-toggle:hover { border-color:#fff; }
+.container { max-width:900px; margin:-40px auto 40px; padding:0 24px; position:relative; }
+.card { background:var(--surface); border:1px solid var(--border); border-radius:12px;
+        padding:28px 32px; margin-bottom:20px; display:flex; gap:24px; align-items:flex-start;
+        text-decoration:none; color:var(--text); transition:transform .15s, box-shadow .15s; cursor:pointer; }
+.card:hover { transform:translateY(-2px); box-shadow:0 4px 20px rgba(0,0,0,0.3); border-color:var(--accent); }
+[data-theme="light"] .card:hover { box-shadow:0 4px 20px rgba(0,0,0,0.1); }
+.card-icon { font-size:2.2rem; min-width:48px; text-align:center; }
+.card-body h2 { font-size:1.1rem; font-weight:600; margin-bottom:6px; }
+.card-body p { font-size:.85rem; color:var(--text2); line-height:1.5; }
+.tag { display:inline-block; padding:2px 8px; border-radius:10px; font-size:.7rem; font-weight:600;
+       margin-right:6px; margin-top:8px; }
+.tag-blue { background:rgba(88,166,255,0.12); color:var(--accent); }
+.tag-green { background:rgba(63,185,80,0.12); color:var(--green); }
+.tag-purple { background:rgba(188,140,255,0.12); color:var(--purple); }
+.tag-teal { background:rgba(3,218,198,0.12); color:var(--teal); }
+.footer { text-align:center; padding:24px; color:var(--text2); font-size:.75rem; }
+</style>
+</head>
+<body data-theme="dark">
+<div style="position:relative;">
+<div class="header">
+  <h1>DSS Reports Dashboard</h1>
+  <p>Distributor Support System &middot; Dynamic Reports</p>
+</div>
+<button class="theme-toggle" onclick="toggleTheme()" id="themeBtn">&#9790; Light</button>
+</div>
+
+<div class="container">
+
+  <a class="card" href="advisors_by_channel_report.html">
+    <div class="card-icon">&#128101;</div>
+    <div class="card-body">
+      <h2>Advisors by Channel</h2>
+      <p>Comprehensive advisor analysis across all distribution channels — overview stats, channel breakdowns, analytics charts, termination tracking, and full searchable data table.</p>
+      <span class="tag tag-blue">547K+ rows</span>
+      <span class="tag tag-green">5 tabs</span>
+      <span class="tag tag-purple">CSV data</span>
+    </div>
+  </a>
+
+  <a class="card" href="channel_mandatoryrequirements.html">
+    <div class="card-icon">&#9989;</div>
+    <div class="card-body">
+      <h2>Code Matrix</h2>
+      <p>Channel mandatory requirements code matrix — summary, analytics, collapsible pivot tables per channel/role, full detail table with search highlighting, and code legend.</p>
+      <span class="tag tag-blue">371 rows</span>
+      <span class="tag tag-green">5 tabs</span>
+      <span class="tag tag-teal">CSV data</span>
+    </div>
+  </a>
+
+  <a class="card" href="dss_entity_classification.html">
+    <div class="card-icon">&#128202;</div>
+    <div class="card-body">
+      <h2>Entity Classification</h2>
+      <p>Party-level vs contract-level table classification from the MS_DSS_A1 DDL — columns, foreign keys, bridge tables, and entity relationship chains.</p>
+      <span class="tag tag-purple">28 party + 23 contract</span>
+      <span class="tag tag-green">4 tabs</span>
+      <span class="tag tag-teal">JSON data</span>
+    </div>
+  </a>
+
+  <a class="card" href="hierarchy_levels.html">
+    <div class="card-icon">&#127959;</div>
+    <div class="card-body">
+      <h2>Hierarchy Levels</h2>
+      <p>DSS 10-level distributor hierarchy — level definitions, 5 channel types, database schema, compliance roll-up logic, and reference SQL queries.</p>
+      <span class="tag tag-blue">10 levels</span>
+      <span class="tag tag-green">5 tabs</span>
+      <span class="tag tag-purple">DDL sourced</span>
+    </div>
+  </a>
+
+</div>
+
+<div class="footer">DSS Reports &middot; Manulife Canada &middot; Data refreshed from <code>./data/</code> directory</div>
+
+<script>
+function toggleTheme() {
+  const isDark = document.body.getAttribute('data-theme')==='dark';
+  document.body.setAttribute('data-theme', isDark?'light':'dark');
+  document.getElementById('themeBtn').innerHTML = isDark?'&#9728; Dark':'&#9790; Light';
+}
+</script>
+</body>
+</html>

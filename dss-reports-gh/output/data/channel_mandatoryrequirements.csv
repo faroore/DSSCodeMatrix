@@ -1,0 +1,372 @@
+party_role_id,party_role_nm,channel_id,channel_name,contract_type_id,contract_type_nm,contract_type_cd,level_id,level_value,level_name,req_code_id,req_code_name,mandatory_ind
+100008,Beneficiary,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100008,Beneficiary,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100008,Beneficiary,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100048,MCTRB,Marketing Centre with MLI Branch,100005,AOF,Alternate Office,100003,Manulife Selling Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100048,MCTRB,Marketing Centre with MLI Branch,100005,AOF,Alternate Office,100004,Manulife Branch Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100048,MCTRB,Marketing Centre with MLI Branch,100005,AOF,Alternate Office,100005,Maritime Branch Selling Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100053,MGA,Managing General Agent,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100053,MGA,Managing General Agent,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100053,MGA,Managing General Agent,100004,BCH,Branch,100005,Maritime Branch Selling Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100049,MDMGB,MF Dealer MGA Bch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100049,MDMGB,MF Dealer MGA Bch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100049,MDMGB,MF Dealer MGA Bch,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100036,AGAB,AGA With MLI Branch,100006,SBR,Location (Sub Branch),100003,Manulife Selling Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100036,AGAB,AGA With MLI Branch,100006,SBR,Location (Sub Branch),100004,Manulife Branch Code,Y
+100002,Branch,1000148145,CAC - Corporate Accounts Channel,100036,AGAB,AGA With MLI Branch,100006,SBR,Location (Sub Branch),100005,Maritime Branch Selling Code,Y
+100011,Court,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100011,Court,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100011,Court,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100041,GABCE,General Agent Corp Entitled,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100041,GABCE,General Agent Corp Entitled,100009,AFF,Affiliate,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100041,GABCE,General Agent Corp Entitled,100009,AFF,Affiliate,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100040,GABCB,General Agent Corp Sch B,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100040,GABCB,General Agent Corp Sch B,100009,AFF,Affiliate,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100040,GABCB,General Agent Corp Sch B,100009,AFF,Affiliate,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100079,SGACE,Servicing General Agent Corp Entitled,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100079,SGACE,Servicing General Agent Corp Entitled,100009,AFF,Affiliate,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100079,SGACE,Servicing General Agent Corp Entitled,100009,AFF,Affiliate,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100078,SGACB,Servicing General Agent Corp Sch B,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100078,SGACB,Servicing General Agent Corp Sch B,100009,AFF,Affiliate,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100078,SGACB,Servicing General Agent Corp Sch B,100009,AFF,Affiliate,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100038,GAB,General Agent Broker,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100038,GAB,General Agent Broker,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100038,GAB,General Agent Broker,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100044,GABRE,General Agent Rep Entitled,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100044,GABRE,General Agent Rep Entitled,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100044,GABRE,General Agent Rep Entitled,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100043,GABR,General Agent Representative,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100043,GABR,General Agent Representative,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100043,GABR,General Agent Representative,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100051,MDMGI,MF Dealer MGA Individual,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100051,MDMGI,MF Dealer MGA Individual,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100051,MDMGI,MF Dealer MGA Individual,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100052,MDMGR,MF Dealer MGA Rep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100052,MDMGR,MF Dealer MGA Rep,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100052,MDMGR,MF Dealer MGA Rep,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100055,SGAB,Servicing General Agent Broker,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100055,SGAB,Servicing General Agent Broker,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100055,SGAB,Servicing General Agent Broker,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100077,SGABE,Servicing General Agent Entitled,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100077,SGABE,Servicing General Agent Entitled,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100077,SGABE,Servicing General Agent Entitled,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100057,SGABR,Servicing General Agent Rep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100057,SGABR,Servicing General Agent Rep,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100057,SGABR,Servicing General Agent Rep,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100068,MCTRN,Marketing Centre without Branch Code,100005,AOF,Alternate Office,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100068,MCTRN,Marketing Centre without Branch Code,100005,AOF,Alternate Office,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100068,MCTRN,Marketing Centre without Branch Code,100005,AOF,Alternate Office,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100054,MMGA,Miscellaneous MGA,100005,AOF,Alternate Office,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100054,MMGA,Miscellaneous MGA,100005,AOF,Alternate Office,100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100054,MMGA,Miscellaneous MGA,100005,AOF,Alternate Office,100008,Wealth Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100045,GACIE,General Agent Corp Indiv Entitled,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100045,GACIE,General Agent Corp Indiv Entitled,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100045,GACIE,General Agent Corp Indiv Entitled,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100046,GACRE,General Agent Corp Rep Entitled,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100046,GACRE,General Agent Corp Rep Entitled,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100046,GACRE,General Agent Corp Rep Entitled,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100039,GABC,General Agent Corporation,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100039,GABC,General Agent Corporation,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100039,GABC,General Agent Corporation,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100042,GABCI,General Agent Corporation Individual,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100042,GABCI,General Agent Corporation Individual,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100042,GABCI,General Agent Corporation Individual,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100050,MDMGC,MF Dealer MGA Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100050,MDMGC,MF Dealer MGA Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100050,MDMGC,MF Dealer MGA Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100056,SGABC,Servicing General Agent Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100056,SGABC,Servicing General Agent Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100056,SGABC,Servicing General Agent Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100080,SGCRE,Servicing General Agent Corp Rep Entitled,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100080,SGCRE,Servicing General Agent Corp Rep Entitled,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100080,SGCRE,Servicing General Agent Corp Rep Entitled,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100037,AGAN,AGA Without MLI Branch,100006,SBR,Location (Sub Branch),100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100037,AGAN,AGA Without MLI Branch,100006,SBR,Location (Sub Branch),100006,Maritime Selling Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100037,AGAN,AGA Without MLI Branch,100006,SBR,Location (Sub Branch),100008,Wealth Code,N
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100047,MCSBR,Marketing Centre Sub-Branch,100006,SBR,Location (Sub Branch),100003,Manulife Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100047,MCSBR,Marketing Centre Sub-Branch,100006,SBR,Location (Sub Branch),100006,Maritime Selling Code,Y
+100001,Distributor,1000148145,CAC - Corporate Accounts Channel,100047,MCSBR,Marketing Centre Sub-Branch,100006,SBR,Location (Sub Branch),100008,Wealth Code,Y
+100013,Government Entity,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100013,Government Entity,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100013,Government Entity,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100004,Region,1000148145,CAC - Corporate Accounts Channel,100053,MGA,Managing General Agent,100003,REG,Region,100002,Manulife Region Code,Y
+100004,Region,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100003,REG,Region,100002,Manulife Region Code,Y
+100031,Trustee,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100031,Trustee,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100031,Trustee,1000148145,CAC - Corporate Accounts Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100002,Branch,1000145812,DC - Dealer Channel,100095,DAB,Dealer Associate Branch,100004,BCH,Branch,100003,Manulife Selling Code,N
+100002,Branch,1000145812,DC - Dealer Channel,100095,DAB,Dealer Associate Branch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145812,DC - Dealer Channel,100095,DAB,Dealer Associate Branch,100004,BCH,Branch,100007,DC Dataphile Branch Code,N
+100002,Branch,1000145812,DC - Dealer Channel,100102,DCO,Dealer Corporate Office,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145812,DC - Dealer Channel,100102,DCO,Dealer Corporate Office,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145812,DC - Dealer Channel,100102,DCO,Dealer Corporate Office,100004,BCH,Branch,100007,DC Dataphile Branch Code,N
+100002,Branch,1000145812,DC - Dealer Channel,100103,DHO,Dealer Head Office,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145812,DC - Dealer Channel,100103,DHO,Dealer Head Office,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145812,DC - Dealer Channel,100103,DHO,Dealer Head Office,100004,BCH,Branch,100007,DC Dataphile Branch Code,N
+100009,Branch Owner,1000145812,DC - Dealer Channel,100096,DBO,Dealer Branch Owner,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100009,Branch Owner,1000145812,DC - Dealer Channel,100097,DBOJ,Dealer Branch Owner Joint,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100089,DARAA,Dealer Additional Primary Code,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100089,DARAA,Dealer Additional Primary Code,100010,AGT,Agent,100009,Manulife Securities Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100096,DBO,Dealer Branch Owner,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100097,DBOJ,Dealer Branch Owner Joint,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100090,DARAD,Dealer DCR Code,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100090,DARAD,Dealer DCR Code,100010,AGT,Agent,100010,Manulife Securities D Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100092,DARAX,Dealer Extra Provincial Code,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100092,DARAX,Dealer Extra Provincial Code,100010,AGT,Agent,100009,Manulife Securities Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100094,DARXJ,Dealer Extra Provincial Joint Code,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100094,DARXJ,Dealer Extra Provincial Joint Code,100010,AGT,Agent,100009,Manulife Securities Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100104,DHA,Dealer House Account,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100104,DHA,Dealer House Account,100010,AGT,Agent,100009,Manulife Securities Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100093,DARAJ,Dealer Joint Code,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100093,DARAJ,Dealer Joint Code,100010,AGT,Agent,100009,Manulife Securities Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100088,DARA,Dealer Primary Code,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100088,DARA,Dealer Primary Code,100010,AGT,Agent,100009,Manulife Securities Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100105,DTP,Dealer Third Party,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100105,DTP,Dealer Third Party,100010,AGT,Agent,100009,Manulife Securities Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100091,DARAQ,Dealer Unique Transfer Code,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145812,DC - Dealer Channel,100091,DARAQ,Dealer Unique Transfer Code,100010,AGT,Agent,100011,Manulife Securities Q Code,Y
+100004,Region,1000145812,DC - Dealer Channel,100106,DLR,Dealer Region,100003,REG,Region,100002,Manulife Region Code,Y
+100004,Region,1000145812,DC - Dealer Channel,100106,DLR,Dealer Region,100003,REG,Region,100003,Manulife Selling Code,Y
+100004,Region,1000145812,DC - Dealer Channel,100100,IDA,Investment Dealer,100003,REG,Region,100002,Manulife Region Code,Y
+100004,Region,1000145812,DC - Dealer Channel,100100,IDA,Investment Dealer,100003,REG,Region,100003,Manulife Selling Code,Y
+100004,Region,1000145812,DC - Dealer Channel,100099,MFDA,Mutual Fund Dealer,100003,REG,Region,100002,Manulife Region Code,Y
+100004,Region,1000145812,DC - Dealer Channel,100099,MFDA,Mutual Fund Dealer,100003,REG,Region,100003,Manulife Selling Code,Y
+100008,Beneficiary,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100008,Beneficiary,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100008,Beneficiary,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100008,Beneficiary,1000148144,HO - Head Office Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100003,Manulife Selling Code,N
+100008,Beneficiary,1000148144,HO - Head Office Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100006,Maritime Selling Code,N
+100008,Beneficiary,1000148144,HO - Head Office Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100008,Wealth Code,N
+100002,Branch,1000148144,HO - Head Office Channel,100107,FNDSRV,FundServ Only,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000148144,HO - Head Office Channel,100107,FNDSRV,FundServ Only,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000148144,HO - Head Office Channel,100002,SPC,Special,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000148144,HO - Head Office Channel,100002,SPC,Special,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000148144,HO - Head Office Channel,100002,SPC,Special,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000148144,HO - Head Office Channel,100003,SPCB,Special - Branch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000148144,HO - Head Office Channel,100003,SPCB,Special - Branch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000148144,HO - Head Office Channel,100003,SPCB,Special - Branch,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100011,Court,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100011,Court,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100011,Court,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100107,FNDSRV,FundServ Only,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100006,SPCR,Special - Corporate Rep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100006,SPCR,Special - Corporate Rep,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100006,SPCR,Special - Corporate Rep,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000148144,HO - Head Office Channel,100004,SPCC,Special - Corporation,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000148144,HO - Head Office Channel,100004,SPCC,Special - Corporation,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000148144,HO - Head Office Channel,100004,SPCC,Special - Corporation,100008,CORP,Corporation,100008,Wealth Code,N
+100013,Government Entity,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100013,Government Entity,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100013,Government Entity,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100004,Region,1000148144,HO - Head Office Channel,100002,SPC,Special,100003,REG,Region,100002,Manulife Region Code,Y
+100031,Trustee,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100031,Trustee,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100031,Trustee,1000148144,HO - Head Office Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100008,Beneficiary,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100008,Beneficiary,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100008,Beneficiary,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100008,Beneficiary,1000145776,IAC - Independent Advisor Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100003,Manulife Selling Code,N
+100008,Beneficiary,1000145776,IAC - Independent Advisor Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100006,Maritime Selling Code,N
+100008,Beneficiary,1000145776,IAC - Independent Advisor Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100008,Wealth Code,N
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100008,BRKR,Brokers Research,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100008,BRKR,Brokers Research,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100008,BRKR,Brokers Research,100004,BCH,Branch,100005,Maritime Branch Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100074,IAC,Independent Advisor Channel,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100074,IAC,Independent Advisor Channel,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100074,IAC,Independent Advisor Channel,100004,BCH,Branch,100005,Maritime Branch Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100018,IDC,Independent Distribution Centre,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100018,IDC,Independent Distribution Centre,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100018,IDC,Independent Distribution Centre,100004,BCH,Branch,100005,Maritime Branch Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100022,MDIAB,MF Dealer IAC Bch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100022,MDIAB,MF Dealer IAC Bch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100022,MDIAB,MF Dealer IAC Bch,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100027,ORGR,Organic Growth,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100027,ORGR,Organic Growth,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100027,ORGR,Organic Growth,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100030,RGO,Regional Group Office,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100030,RGO,Regional Group Office,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100030,RGO,Regional Group Office,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100011,Court,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100011,Court,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100011,Court,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100015,GCRPB,Group Only Sch B Corp,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100015,GCRPB,Group Only Sch B Corp,100009,AFF,Affiliate,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100015,GCRPB,Group Only Sch B Corp,100009,AFF,Affiliate,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100010,CORPB,Schedule B Corp,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100010,CORPB,Schedule B Corp,100009,AFF,Affiliate,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100010,CORPB,Schedule B Corp,100009,AFF,Affiliate,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100011,CORPE,Schedule B Entitled Corp,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100011,CORPE,Schedule B Entitled Corp,100009,AFF,Affiliate,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100011,CORPE,Schedule B Entitled Corp,100009,AFF,Affiliate,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100032,SCRPB,Servicing Corp Schedule B,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100032,SCRPB,Servicing Corp Schedule B,100009,AFF,Affiliate,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100032,SCRPB,Servicing Corp Schedule B,100009,AFF,Affiliate,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100016,GIND,Group Only Individuals,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100016,GIND,Group Only Individuals,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100016,GIND,Group Only Individuals,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100017,GREP,Group Only Representative,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100017,GREP,Group Only Representative,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100017,GREP,Group Only Representative,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100020,INDIV,Individual Advisor,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100020,INDIV,Individual Advisor,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100020,INDIV,Individual Advisor,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100019,INDFM,Individual Field Management,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100019,INDFM,Individual Field Management,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100019,INDFM,Individual Field Management,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100025,MDIAR,MF Dealer IAC IndividRep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100025,MDIAR,MF Dealer IAC IndividRep,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100025,MDIAR,MF Dealer IAC IndividRep,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100024,MDIAI,MF Dealer IAC Individual,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100024,MDIAI,MF Dealer IAC Individual,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100024,MDIAI,MF Dealer IAC Individual,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100001,MISC,Miscellaneous,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100001,MISC,Miscellaneous,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100001,MISC,Miscellaneous,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100028,REP,Representative,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100028,REP,Representative,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100028,REP,Representative,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100029,REPE,Representative - Entitled,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100029,REPE,Representative - Entitled,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100029,REPE,Representative - Entitled,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100033,SIND,Servicing Individual Advisor,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100033,SIND,Servicing Individual Advisor,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100033,SIND,Servicing Individual Advisor,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100034,SREP,Servicing Representative,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100034,SREP,Servicing Representative,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100034,SREP,Servicing Representative,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100006,SPCR,Special - Corporate Rep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100006,SPCR,Special - Corporate Rep,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100006,SPCR,Special - Corporate Rep,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100005,SPCI,Special - Individual,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100013,CRPRE,Corporation - Rep Entitled,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100013,CRPRE,Corporation - Rep Entitled,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100013,CRPRE,Corporation - Rep Entitled,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100014,GCRP,Group Only Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100014,GCRP,Group Only Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100014,GCRP,Group Only Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100081,GCRPV,Group Only Virtual Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100081,GCRPV,Group Only Virtual Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100081,GCRPV,Group Only Virtual Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100009,CORP,IAC Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100009,CORP,IAC Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100009,CORP,IAC Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100012,CORPV,IAC Virtual Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100012,CORPV,IAC Virtual Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100012,CORPV,IAC Virtual Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100023,MDIAC,MF Dealer IAC Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100023,MDIAC,MF Dealer IAC Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100023,MDIAC,MF Dealer IAC Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100031,SCRP,Servicing Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100031,SCRP,Servicing Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100031,SCRP,Servicing Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100076,SCRPV,Servicing Virtual Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100076,SCRPV,Servicing Virtual Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100076,SCRPV,Servicing Virtual Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100004,SPCC,Special - Corporation,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100004,SPCC,Special - Corporation,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145776,IAC - Independent Advisor Channel,100004,SPCC,Special - Corporation,100008,CORP,Corporation,100008,Wealth Code,N
+100013,Government Entity,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100013,Government Entity,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100013,Government Entity,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100023,Mutual Fund Branch Manager,1000145776,IAC - Independent Advisor Channel,100026,MFBM,Mutual Fund Branch Manager,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100023,Mutual Fund Branch Manager,1000145776,IAC - Independent Advisor Channel,100026,MFBM,Mutual Fund Branch Manager,100009,AFF,Affiliate,100003,Manulife Selling Code,Y
+100023,Mutual Fund Branch Manager,1000145776,IAC - Independent Advisor Channel,100026,MFBM,Mutual Fund Branch Manager,100009,AFF,Affiliate,100006,Maritime Selling Code,Y
+100023,Mutual Fund Branch Manager,1000145776,IAC - Independent Advisor Channel,100026,MFBM,Mutual Fund Branch Manager,100009,AFF,Affiliate,100008,Wealth Code,Y
+100023,Mutual Fund Branch Manager,1000145776,IAC - Independent Advisor Channel,100026,MFBM,Mutual Fund Branch Manager,100009,AFF,Affiliate,100008,Wealth Code,N
+100004,Region,1000145776,IAC - Independent Advisor Channel,100074,IAC,Independent Advisor Channel,100003,REG,Region,100002,Manulife Region Code,Y
+100004,Region,1000145776,IAC - Independent Advisor Channel,100018,IDC,Independent Distribution Centre,100003,REG,Region,100002,Manulife Region Code,Y
+100004,Region,1000145776,IAC - Independent Advisor Channel,100030,RGO,Regional Group Office,100003,REG,Region,100002,Manulife Region Code,Y
+100004,Region,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100003,REG,Region,100002,Manulife Region Code,Y
+100031,Trustee,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100031,Trustee,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100031,Trustee,1000145776,IAC - Independent Advisor Channel,100002,SPC,Special,100010,AGT,Agent,100008,Wealth Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100060,ICM,Intercorporate Branch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100060,ICM,Intercorporate Branch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100060,ICM,Intercorporate Branch,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000145765,NAC - National Accounts Channel,100061,ICR,Intercorporate Regional Branch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100061,ICR,Intercorporate Regional Branch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100061,ICR,Intercorporate Regional Branch,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000145765,NAC - National Accounts Channel,100063,IDM,Investment Dealer - Main Branch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100063,IDM,Investment Dealer - Main Branch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100063,IDM,Investment Dealer - Main Branch,100004,BCH,Branch,100005,Maritime Branch Selling Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100064,IDR,Investment Dealer - Regional Branch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100064,IDR,Investment Dealer - Regional Branch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100064,IDR,Investment Dealer - Regional Branch,100004,BCH,Branch,100005,Maritime Branch Selling Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100071,SICM,Servicing Intercorporate Branch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100071,SICM,Servicing Intercorporate Branch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100071,SICM,Servicing Intercorporate Branch,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100002,Branch,1000145765,NAC - National Accounts Channel,100086,SICR,Servicing Intercorporate Regional Branch,100004,BCH,Branch,100003,Manulife Selling Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100086,SICR,Servicing Intercorporate Regional Branch,100004,BCH,Branch,100004,Manulife Branch Code,Y
+100002,Branch,1000145765,NAC - National Accounts Channel,100086,SICR,Servicing Intercorporate Regional Branch,100004,BCH,Branch,100005,Maritime Branch Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100082,ICIND,Intercorporate Individual,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100082,ICIND,Intercorporate Individual,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100082,ICIND,Intercorporate Individual,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100062,ICREP,Intercorporate Rep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100062,ICREP,Intercorporate Rep,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100062,ICREP,Intercorporate Rep,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100066,INDR,Investment Dealer Rep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100066,INDR,Investment Dealer Rep,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100066,INDR,Investment Dealer Rep,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100006,Maritime Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100021,JOINT,Joint Agent,100010,AGT,Agent,100008,Wealth Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100084,MDNAR,MF Dealer NAC Rep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100084,MDNAR,MF Dealer NAC Rep,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100084,MDNAR,MF Dealer NAC Rep,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100070,SICIN,Servicing Intercorporate Individual,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100070,SICIN,Servicing Intercorporate Individual,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100070,SICIN,Servicing Intercorporate Individual,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100072,SICRP,Servicing Intercorporate Rep,100010,AGT,Agent,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100072,SICRP,Servicing Intercorporate Rep,100010,AGT,Agent,100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100072,SICRP,Servicing Intercorporate Rep,100010,AGT,Agent,100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100068,MCTRN,Marketing Centre without Branch Code,100005,AOF,Alternate Office,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100068,MCTRN,Marketing Centre without Branch Code,100005,AOF,Alternate Office,100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100068,MCTRN,Marketing Centre without Branch Code,100005,AOF,Alternate Office,100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100059,ICCRP,Intercorporate Corporation,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100059,ICCRP,Intercorporate Corporation,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100059,ICCRP,Intercorporate Corporation,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100065,INDC,Investment Dealer - Corporation,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100065,INDC,Investment Dealer - Corporation,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100065,INDC,Investment Dealer - Corporation,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100083,MDNAC,MF Dealer NAC Corp,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100083,MDNAC,MF Dealer NAC Corp,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100083,MDNAC,MF Dealer NAC Corp,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100069,SICCR,Servicing Intercorporate Corporation,100008,CORP,Corporation,100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100069,SICCR,Servicing Intercorporate Corporation,100008,CORP,Corporation,100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100069,SICCR,Servicing Intercorporate Corporation,100008,CORP,Corporation,100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100058,CU,Credit Union,100006,SBR,Location (Sub Branch),100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100058,CU,Credit Union,100006,SBR,Location (Sub Branch),100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100058,CU,Credit Union,100006,SBR,Location (Sub Branch),100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100067,LS,Life Specialist,100006,SBR,Location (Sub Branch),100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100067,LS,Life Specialist,100006,SBR,Location (Sub Branch),100006,Maritime Selling Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100067,LS,Life Specialist,100006,SBR,Location (Sub Branch),100008,Wealth Code,N
+100001,Distributor,1000145765,NAC - National Accounts Channel,100047,MCSBR,Marketing Centre Sub-Branch,100006,SBR,Location (Sub Branch),100003,Manulife Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100047,MCSBR,Marketing Centre Sub-Branch,100006,SBR,Location (Sub Branch),100006,Maritime Selling Code,Y
+100001,Distributor,1000145765,NAC - National Accounts Channel,100047,MCSBR,Marketing Centre Sub-Branch,100006,SBR,Location (Sub Branch),100008,Wealth Code,Y
+100004,Region,1000145765,NAC - National Accounts Channel,100075,NAC,National Accounts Region,100003,REG,Region,100002,Manulife Region Code,Y
